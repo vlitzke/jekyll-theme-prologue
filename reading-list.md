@@ -5,8 +5,9 @@ icon: fa-book
 order: 3
 ---
 
-Here are some notable books I have read (judge me all you want):
+Here are some notable books I have read in the last 2 years (judge me all you want):
 
+- Adams, Douglas: *The Hitchhiker's Guide to the Galaxy*
 - Ansari, Aziz: *Modern Romance: An Investigation*
 - Atwood, Margaret: *The Handmaid's Tale*
 - Auster, Paul: *Oracle Night*
@@ -29,6 +30,7 @@ Here are some notable books I have read (judge me all you want):
 - Kaur, Rupi: *Milk and Honey*
 - Kaur, Rupi: *The Sun and Her Flowers*
 - McQuiston, Casey: *Red, White & Royal Blue* 
+- Morgenstern, Erin: *The Night Circus*
 - Murakami, Haruki: *Absolutely on Music: Conversations with Seiji Ozawa* 
 - Murakami, Haruki: *A Wild Sheep's Chase* 
 - Murakami, Haruki: *1Q84* 
