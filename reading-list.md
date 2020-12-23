@@ -23,5 +23,6 @@ Here are some notable books I have read (judge me all you want):
 - Obama, Michelle: *Becoming*
 - Pratchett, Terry: *The Colour of Magic*
 - Pratchett, Terry: *The Light Fantastic*
+- Savage, Sam: *Firmin: Adventures of a Metropolitan Lowlife*
 - Turton, Stuart: *The Seven Deaths of Evelyn Hardcastle*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
