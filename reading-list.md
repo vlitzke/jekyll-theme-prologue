@@ -7,6 +7,7 @@ order: 3
 
 Here are some notable books I have read (judge me all you want):
 
+- Auster, Paul: *Oracle Night*
 - Bregman, Rutger: *Utopia for Realists* 
 - Cline, Ernest: *Ready Player One*
 - Crouch, Blake: *Recursion*
