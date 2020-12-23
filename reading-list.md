@@ -11,6 +11,8 @@ Here are some notable books I have read (judge me all you want):
 - Atwood, Margaret: *The Handmaid's Tale*
 - Auster, Paul: *Oracle Night*
 - Bregman, Rutger: *Utopia for Realists* 
+- Brown, Dan: *Angels and Demons*
+- Brown, Dan: *The Da Vinci Code*
 - Cline, Ernest: *Ready Player One*
 - Crouch, Blake: *Recursion*
 - Doughty, Caitlin: *Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals about Death*
@@ -21,6 +23,8 @@ Here are some notable books I have read (judge me all you want):
 - Gaiman, Niel: *Norse Mythology*
 - Hawthorne, Nathaniel: *The Scarlet Letter*
 - Honeyman, Gail: *Eleanor Oliphant is Completely Fine*
+- Hosseini, Khaled: *A Thousand Splendid Suns*
+- Hosseini, Khaled: *The Kiterunner*
 - Kaur, Rupi: *Milk and Honey*
 - Kaur, Rupi: *The Sun and Her Flowers*
 - McQuiston, Casey: *Red, White & Royal Blue* 
@@ -35,5 +39,7 @@ Here are some notable books I have read (judge me all you want):
 - Pratchett, Terry: *The Colour of Magic*
 - Pratchett, Terry: *The Light Fantastic*
 - Savage, Sam: *Firmin: Adventures of a Metropolitan Lowlife*
+- Strayed, Cheryl: *Wild*
+- Towles, Amor: *A Gentleman in Moscow*
 - Turton, Stuart: *The Seven Deaths of Evelyn Hardcastle*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
