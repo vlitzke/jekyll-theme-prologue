@@ -7,7 +7,8 @@ order: 3
 
 Here are some notable books I have read (judge me all you want):
 
-- Atwood: Margaret: *The Handmaid's Tale*
+- Ansari, Aziz: *Modern Romance: An Investigation*
+- Atwood, Margaret: *The Handmaid's Tale*
 - Auster, Paul: *Oracle Night*
 - Bregman, Rutger: *Utopia for Realists* 
 - Cline, Ernest: *Ready Player One*
@@ -30,6 +31,7 @@ Here are some notable books I have read (judge me all you want):
 - Neuvel, Sylvain: *Sleeping Giants*
 - Norton, Graham: *Holding*
 - Obama, Michelle: *Becoming*
+- Poehler, Amy: *Yes Please* 
 - Pratchett, Terry: *The Colour of Magic*
 - Pratchett, Terry: *The Light Fantastic*
 - Savage, Sam: *Firmin: Adventures of a Metropolitan Lowlife*
