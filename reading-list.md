@@ -14,6 +14,8 @@ Here are some notable books I have read (judge me all you want):
 - Crouch, Blake: *Recursion*
 - Doughty, Caitlin: *Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals about Death*
 - Ende, Michael: *Die unendliche Geschichte*
+- Flynn, Gillian: *Gone Girl*
+- Flynn, Gillian: *Sharp Objects*
 - Gaiman, Niel: *American Gods*
 - Gaiman, Niel: *Norse Mythology*
 - Hawthorne, Nathaniel: *The Scarlet Letter*
@@ -23,6 +25,7 @@ Here are some notable books I have read (judge me all you want):
 - Murakami, Haruki: *A Wild Sheep's Chase* 
 - Murakami, Haruki: *1Q84* 
 - Murakami, Haruki: *Kafka on the Shore*
+- Neuvel, Sylvain: *Sleeping Giants*
 - Norton, Graham: *Holding*
 - Obama, Michelle: *Becoming*
 - Pratchett, Terry: *The Colour of Magic*
