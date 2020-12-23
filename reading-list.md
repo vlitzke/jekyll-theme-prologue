@@ -7,13 +7,16 @@ order: 3
 
 Here are some notable books I have read (judge me all you want):
 
+- Atwood: Margaret: *The Handmaid's Tale*
 - Auster, Paul: *Oracle Night*
 - Bregman, Rutger: *Utopia for Realists* 
 - Cline, Ernest: *Ready Player One*
 - Crouch, Blake: *Recursion*
+- Doughty, Caitlin: *Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals about Death*
 - Ende, Michael: *Die unendliche Geschichte*
 - Gaiman, Niel: *American Gods*
 - Gaiman, Niel: *Norse Mythology*
+- Hawthorne, Nathaniel: *The Scarlet Letter*
 - Honeyman, Gail: *Eleanor Oliphant is Completely Fine*
 - McQuiston, Casey: *Red, White & Royal Blue* 
 - Murakami, Haruki: *Absolutely on Music* 
