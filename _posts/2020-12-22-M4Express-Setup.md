@@ -1,5 +1,5 @@
 ---
-title: "Setting up my Feather M4 Express Board"
+title: "Feather M4 Express Set-up"
 author: Vivienne
 date: 2020-12-21
 layout: post
