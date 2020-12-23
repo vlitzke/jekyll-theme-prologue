@@ -5,7 +5,23 @@ icon: fa-book
 order: 3
 ---
 
-I love books! Here are some I'm reading now:
+Here are some notable books I have read (judge me all you want):
 
-1. Rutger Bregman: *Utopia for Realists*
-2. Haruki Murakami: *Absolutely on Music*
+- Bregman, Rutger: *Utopia for Realists* 
+- Cline, Ernest: *Ready Player One*
+- Crouch, Blake: *Recursion*
+- Ende, Michael: *Die unendliche Geschichte*
+- Gaiman, Niel: *American Gods*
+- Gaiman, Niel: *Norse Mythology*
+- Honeyman, Gail: *Eleanor Oliphant is Completely Fine*
+- McQuiston, Casey: *Red, White & Royal Blue* 
+- Murakami, Haruki: *Absolutely on Music* 
+- Murakami, Haruki: *A Wild Sheep's Chase* 
+- Murakami, Haruki: *1Q84* 
+- Murakami, Haruki: *Kafka on the Shore*
+- Norton, Graham: *Holding*
+- Obama, Michelle: *Becoming*
+- Pratchett, Terry: *The Colour of Magic*
+- Pratchett, Terry: *The Light Fantastic*
+- Turton, Stuart: *The Seven Deaths of Evelyn Hardcastle*
+- Wright, John: *River Cottage Handbook No. 1: Mushrooms*
