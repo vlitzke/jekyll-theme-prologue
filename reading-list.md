@@ -21,7 +21,7 @@ Here are some notable books I have read (judge me all you want):
 - Hawthorne, Nathaniel: *The Scarlet Letter*
 - Honeyman, Gail: *Eleanor Oliphant is Completely Fine*
 - McQuiston, Casey: *Red, White & Royal Blue* 
-- Murakami, Haruki: *Absolutely on Music* 
+- Murakami, Haruki: *Absolutely on Music: Conversations with Seiji Ozawa* 
 - Murakami, Haruki: *A Wild Sheep's Chase* 
 - Murakami, Haruki: *1Q84* 
 - Murakami, Haruki: *Kafka on the Shore*
