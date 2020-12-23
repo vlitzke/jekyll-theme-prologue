@@ -3,7 +3,6 @@ title: "Feather M4 Express Set-up"
 author: Vivienne
 date: 2020-12-21
 layout: post
-icon: fa-wrench
 ---
 
 Yesterday my supervisor handed me parts to start building our own dataloggers, which included a Feather M4 Express Board, Accelerometer and GPS with associated cable wires, LED lights and so on from Adafruit...it is cool stuff, check it out here: https://www.adafruit.com/product/3857
