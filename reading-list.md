@@ -20,6 +20,8 @@ Here are some notable books I have read (judge me all you want):
 - Gaiman, Niel: *Norse Mythology*
 - Hawthorne, Nathaniel: *The Scarlet Letter*
 - Honeyman, Gail: *Eleanor Oliphant is Completely Fine*
+- Kaur, Rupi: *Milk and Honey*
+- Kaur, Rupi: *The Sun and Her Flowers*
 - McQuiston, Casey: *Red, White & Royal Blue* 
 - Murakami, Haruki: *Absolutely on Music: Conversations with Seiji Ozawa* 
 - Murakami, Haruki: *A Wild Sheep's Chase* 
