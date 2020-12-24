@@ -5,9 +5,19 @@ icon: fa-book
 order: 3
 ---
 
-Here are some notable books I have read in the last 2 years (judge me all you want):
+Currently reading:
+- Márquez, Gabriel García: *One Hundred Years of Solitude*
+- Rodriguez, Deborah: *The Little Coffee Shop of Kabul*
+- Saini, Angela: *Superior: The Return of Race Science*
+
+To-read list: 
+- Zamyatin, Yevgeny: *We*
+- Zauner, Michelle: *Crying in H Mart*
+
+Here are some notable books I read in the last few years:
 
 - Adams, Douglas: *The Hitchhiker's Guide to the Galaxy*
+- Albom, Mitch: *The Five People You Meet in Heaven*
 - Ansari, Aziz: *Modern Romance: An Investigation*
 - Atwood, Margaret: *The Handmaid's Tale*
 - Auster, Paul: *Oracle Night*
@@ -22,6 +32,8 @@ Here are some notable books I have read in the last 2 years (judge me all you wa
 - Flynn, Gillian: *Sharp Objects*
 - Gaiman, Niel: *American Gods*
 - Gaiman, Niel: *Norse Mythology*
+- Haddon, Mark: *The Curious Incident of the Dog in the Night-Time*
+- Harari, Yuval Noah: *Sapiens: A Brief History of Humankind*
 - Hawthorne, Nathaniel: *The Scarlet Letter*
 - Hornby, Nick: *A Long Way Down*
 - Honeyman, Gail: *Eleanor Oliphant is Completely Fine*
@@ -29,6 +41,9 @@ Here are some notable books I have read in the last 2 years (judge me all you wa
 - Hosseini, Khaled: *The Kiterunner*
 - Kaur, Rupi: *Milk and Honey*
 - Kaur, Rupi: *The Sun and Her Flowers*
+- Keyes, Daniel: *Flowers for Algernon*
+- Larsson, Stieg: *The Girl with the Dragon Tattoo Trilogy*
+- Martel, Yann: *Life of Pi*
 - McQuiston, Casey: *Red, White & Royal Blue* 
 - Morgenstern, Erin: *The Night Circus*
 - Murakami, Haruki: *Absolutely on Music: Conversations with Seiji Ozawa* 
@@ -38,11 +53,17 @@ Here are some notable books I have read in the last 2 years (judge me all you wa
 - Neuvel, Sylvain: *Sleeping Giants*
 - Norton, Graham: *Holding*
 - Obama, Michelle: *Becoming*
+- Pirsig, Robert: *Zen and the Art of Motorcycle Maintenance* (well, half of it)
 - Poehler, Amy: *Yes Please* 
 - Pratchett, Terry: *The Colour of Magic*
 - Pratchett, Terry: *The Light Fantastic*
+- Rushdie, Salman: *Midnight's Children*
 - Savage, Sam: *Firmin: Adventures of a Metropolitan Lowlife*
 - Strayed, Cheryl: *Wild*
+- Tan, Amy: *The Joy Luck Club*
 - Towles, Amor: *A Gentleman in Moscow*
 - Turton, Stuart: *The Seven Deaths of Evelyn Hardcastle*
+- Wilde, Oscar: *The Picture of Dorian Gray*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
+
+If you have any suggestions for me, let me know! 
