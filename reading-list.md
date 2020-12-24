@@ -57,6 +57,7 @@ Here are some notable books I read in the last few years:
 - Poehler, Amy: *Yes Please* 
 - Pratchett, Terry: *The Colour of Magic*
 - Pratchett, Terry: *The Light Fantastic*
+- Raskin, Ellen: *The Westing Game* 
 - Rushdie, Salman: *Midnight's Children*
 - Savage, Sam: *Firmin: Adventures of a Metropolitan Lowlife*
 - Strayed, Cheryl: *Wild*
