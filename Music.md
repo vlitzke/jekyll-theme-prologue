@@ -1,5 +1,5 @@
 ---
-layout: "page"
+layout: page
 title: music
 icon: fa-spotify
 order: 4
