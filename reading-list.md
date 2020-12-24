@@ -26,6 +26,8 @@ Here are some notable books I read in the last few years:
 - Brown, Dan: *The Da Vinci Code*
 - Cline, Ernest: *Ready Player One*
 - Crouch, Blake: *Recursion*
+- Dawkins, Richard: *The Selfish Gene*
+- Diamond, Jared: *Guns, Germs, and Steel: The Fates of Human Societies* 
 - Doughty, Caitlin: *Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals about Death*
 - Ende, Michael: *Die unendliche Geschichte*
 - Flynn, Gillian: *Gone Girl*
@@ -41,7 +43,9 @@ Here are some notable books I read in the last few years:
 - Hosseini, Khaled: *The Kiterunner*
 - Kaur, Rupi: *Milk and Honey*
 - Kaur, Rupi: *The Sun and Her Flowers*
+- Kahneman, Daniel: *Thinking, Fast and Slow*
 - Keyes, Daniel: *Flowers for Algernon*
+- Larson, Erik: *The Devil in the White City*
 - Larsson, Stieg: *The Girl with the Dragon Tattoo Trilogy*
 - Martel, Yann: *Life of Pi*
 - McQuiston, Casey: *Red, White & Royal Blue* 
