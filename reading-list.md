@@ -5,7 +5,7 @@ icon: fa-book
 order: 3
 ---
 
-Just about everyone lists reading as one of their hobbies, I am one of them. I tried keeping lists over the years on scraps of paper or in old planners of the books I finished but I end up losing it somewhere. It often happens that I come across a book recommmendation and not even realize that I already read it, so I figure this is more for me to stay organized than for your enjoyment.  
+Just about everyone lists reading as one of their hobbies, I am one of them. I tried keeping lists over the years on scraps of paper or in old planners of finished books but I end up losing them somewhere, somehow. It often happens that I come across a book recommmendation and not even realize that I already read it, so I figure this is more for me to stay organized than for your enjoyment.  
 
 ## H2 Currently reading:
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
