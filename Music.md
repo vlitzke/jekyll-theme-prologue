@@ -6,4 +6,4 @@ order: 4
 spotifysername: fl00fsp0tter
 ---
 
-{% include spotifyplaylist.html id=page.spotifyplaylist %}
+{% include spotifyplaylist.html id=page.spotifyusername %}
