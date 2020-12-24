@@ -1,3 +1,6 @@
+
+Code for adding Spotify to my website comes from this repository: DoomPatrol/responsive-spotify-widget
+
 # Prologue - Jekyll Theme
 
 [![Gem Version](https://badge.fury.io/rb/jekyll-theme-prologue.svg)](https://badge.fury.io/rb/jekyll-theme-prologue)
