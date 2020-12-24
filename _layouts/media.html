@@ -2,7 +2,7 @@
 layout: default
 ---
 {%- assign _sections2 = site.sections | sort: 'order' -%}
-{%- include header.html scrolly_nav=_sections -%}
+{%- include header.html scrolly_nav=_sections2 -%}
 <!-- Main -->
 <div id="main">
 	{%- if page.content != "" -%}
