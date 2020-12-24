@@ -7,18 +7,18 @@ order: 3
 
 Just about everyone lists reading as one of their hobbies, I am one of them. I tried keeping lists over the years on scraps of paper or in old planners of finished books but I end up losing them somewhere, somehow. It often happens that I come across a book recommmendation and not even realize that I already read it, so I figure this is more for me to stay organized than for your enjoyment.  
 
-## Currently reading:
+### Currently reading:
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Rodriguez, Deborah: *The Little Coffee Shop of Kabul*
 - Saini, Angela: *Superior: The Return of Race Science*
 
-## To-read list: 
+### To-read list: 
 - Zamyatin, Yevgeny: *We*
 - Zauner, Michelle: *Crying in H Mart*
 
 ---
 
-## Notable books from the past few years:
+### Notable books from the past few years:
 - Adams, Douglas: *The Hitchhiker's Guide to the Galaxy*
 - Albom, Mitch: *The Five People You Meet in Heaven*
 - Ansari, Aziz: *Modern Romance: An Investigation*
