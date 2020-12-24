@@ -3,8 +3,8 @@
   bottom: 0;
   z-index: 100;
   position: fixed;
-  height: 250px;
-  width: 300px;
+  height: 300px;
+  width: 350px;
   color: #fff;
   background: #283c86;
   background: -webkit-linear-gradient(to left, rgba(69,162,71,0.7), rgba(40,60,134,0.7));
