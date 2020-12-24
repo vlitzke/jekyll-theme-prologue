@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Music
+title: music
 icon: fa-spotify
 order: 4
 spotifysername: fl00fsp0tter
