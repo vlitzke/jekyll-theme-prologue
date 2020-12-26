@@ -11,9 +11,9 @@ Yesterday my supervisor handed me parts to start building our own dataloggers, w
 I downloaded Arduino [here](https://www.arduino.cc/en/software), then the additional boards manager which led me to Arduino SAMD Boards and Adafruit SAMD (check out the User Manual for the Feather M4 Express board. So far so good. Then I tried to download the Adafruit Board Driver, but Feather M4 Express was not there (tried two versions, adafuit_drivers_2.5.0.0 and 2.3.4.0 to make sure nothing got lost along the way, still nothing). I can select my board, but not the port, it is greyed out.
 
 Laptop having issues recognizing the board when it is plugged into the USB port. I have tried several things, to no avail:
-1. From [this forum](https://forum.arduino.cc/index.php?topic=424879.0), I downloaded the CH340g driver (as per this [cloning comment](https://forum.arduino.cc/index.php?topic=619090.0))
+1. From [this forum](https://forum.arduino.cc/index.php?topic=424879.0), I downloaded the CH340g driver (as per this [cloning comment](https://forum.arduino.cc/index.php?topic=619090.0)).
 
-2. Went to my device manager, manually downloaded ports (for COM7) downloaded both the COM7 port and the Adafruit circuit playground per this [thread](https://www.windows10forums.com/threads/ports-com-and-lte-not-showing-in-device-manager-in-windows-10.6057/)
+2. Went to my device manager, manually downloaded ports (for COM7) downloaded both the COM7 port and the Adafruit circuit playground per this [thread](https://www.windows10forums.com/threads/ports-com-and-lte-not-showing-in-device-manager-in-windows-10.6057/).
 
 3. Perhaps its the cable? see the first comment [here](https://www.thingsconnected.io/arduino-studio-com-port-grayed-windows-resolved/). According to Bob, *some USB cables have been made only for charging purposes and are missing the signal wires*. 
 
