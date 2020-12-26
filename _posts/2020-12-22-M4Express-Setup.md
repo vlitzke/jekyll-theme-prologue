@@ -6,7 +6,7 @@ layout: post
 icon: fa-wrench
 ---
 
-Yesterday my supervisor handed me parts to start building our own dataloggers, which included a Feather M4 Express Board, Accelerometer and GPS with associated cable wires, LED lights and so on from Adafruit...it is cool stuff, check it out here: https://www.adafruit.com/product/3857
+Yesterday my supervisor handed me parts to start building our own dataloggers, which included a Feather M4 Express Board, Accelerometer and GPS with associated cable wires, LED lights and so on from [Adafruit](https://www.adafruit.com/product/3857).
 
 I am terrified to set the house on fire!
 
