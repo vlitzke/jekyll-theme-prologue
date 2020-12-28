@@ -19,3 +19,6 @@ I2C is a serial protocol for two-wire interface to connect low-speed devices lik
 https://www.youtube.com/watch?v=KMhbV1p3MWk
 https://forums.adafruit.com/viewtopic.php?f=45&t=76545
 https://learn.adafruit.com/adafruit-ultimate-gps/resources
+https://www.youtube.com/watch?v=fvOAbDMzoks
+https://www.youtube.com/watch?v=p27rk7AyUJQ&feature=emb_logo
+https://learn.adafruit.com/circuitpython-hardware-lis3dh-accelerometer/hardware
