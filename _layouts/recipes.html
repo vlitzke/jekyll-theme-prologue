@@ -1,8 +1,8 @@
 ---
 layout: default
 ---
-{%- assign _recipes = site.recipes | sort: 'date' | reverse -%}
-{%- include header.html scrolly_nav=_posts -%}
+{%- assign _recipes = site.posts | sort: 'date' | reverse -%}
+{%- include header.html scrolly_nav=_recipes -%}
 <!-- Main -->
 <div id="main">
 	{%- if page.content != "" -%}
