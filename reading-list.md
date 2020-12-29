@@ -81,4 +81,4 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Wilde, Oscar: *The Picture of Dorian Gray*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
 
-If you made it to the bottom of this list, congratulations! If you have any suggestions for me, let me know :) 
+If you made it to the bottom of this list, congratulations! If you have any suggestions, let me know :) 
