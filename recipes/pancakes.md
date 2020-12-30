@@ -10,7 +10,7 @@
 * Butter for the pan
 
 
-## steps  
+## Steps  
 1. Mix together the dry ingredients.
 2. Beat the eggs into the milk.
 3. Add wet ingredients to dry ingredients.
