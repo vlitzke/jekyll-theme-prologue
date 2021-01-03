@@ -1,4 +1,4 @@
-# To set up the circuitry for the accelerometer to talk to the microcontroller I used [this source](https://pimylifeup.com/arduino-accelerometer-adxl345/).
+## To set up the circuitry for the accelerometer to talk to the microcontroller I used [this source](https://pimylifeup.com/arduino-accelerometer-adxl345/).
 
 First we have to attach the hookup wires! So far I placed my Feather M4 Express and ADXl345 Accelerometer on my bread board (both have been soddered):
 - Wire the GND pin of the ADXl345 to the GND Pin on the Feather M4 Express.
@@ -6,11 +6,11 @@ First we have to attach the hookup wires! So far I placed my Feather M4 Express 
 - Wire the SCL pin of the ADXL345 to the SCL Pin on the Feather M4 Express.
 - Wire the SDA pin of the ADXL345 to the SCL Pin on the Feather M4 Express.
 
-#### Import existing libraries.
+## Import existing libraries
 1. Open up Arduino IDE --> Sketch -> Include Library -> Manage Libraries. 
 2. Search for and install both “Adafruit ADXL345 by Adafruit” and “Adafruit Unified Sensor” libraries. 
 
-#### Code to continuously read off from a plugged-in microcontroller 
+## Code
 At the very top of a new file, enter the following to include libraries:
 ```
 #include <Wire.h>
@@ -20,10 +20,10 @@ At the very top of a new file, enter the following to include libraries:
 
 “Wire” library: Arduino to communicate with the accelerometer using the i2C serial protocol.\
 “Adafruit_Sensor”: base of ADXL345 library.\
-“Adafruit_ADXL345”: handles all code for interacting with the accelerometer from the microcontroller (reads back acceleration data from the sensor).\
+“Adafruit_ADXL345”: handles all code for interacting with the accelerometer from the microcontroller (reads back acceleration data from the sensor).
 
 ```
-Adafruit_ADXL345_Unified accel = Adafruit_ADXL345_Unified(); //instantiates the Adafruit ADXL345 library to the “accel” variable, which is an object wiht several helper functions.
+Adafruit_ADXL345_Unified accel = Adafruit_ADXL345_Unified(); //instantiates the Adafruit ADXL345 library to the “accel” variable
 
 void setup(void) // run automatically when the Arduino powers on
 {
@@ -45,7 +45,7 @@ void loop(void) //automatically runs after the “setup()” function has finish
    Serial.print("X: "); Serial.print(event.acceleration.x); Serial.print("  ");
    Serial.print("Y: "); Serial.print(event.acceleration.y); Serial.print("  ");
    Serial.print("Z: "); Serial.print(event.acceleration.z); Serial.print("  ");
-   Serial.println("m/s^2 ");
+   Serial.println("m/s^2");
    delay(500); //delay loop for 500m
 }
 ```
