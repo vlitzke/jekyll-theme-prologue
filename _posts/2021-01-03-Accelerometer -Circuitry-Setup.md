@@ -1,6 +1,8 @@
-## To set up the circuitry for the accelerometer to talk to the microcontroller I used [this source](https://pimylifeup.com/arduino-accelerometer-adxl345/).
+## Set up the circuitry for the accelerometer to talk to the microcontroller 
 
-First we have to attach the hookup wires! So far I placed my Feather M4 Express and ADXl345 Accelerometer on my bread board (both have been soddered):
+First and foremost, I used [this source](https://pimylifeup.com/arduino-accelerometer-adxl345/).
+
+Before any coding is to be done, we have to attach the hookup wires. So far I placed my Feather M4 Express and ADXl345 Accelerometer on my bread board (both have been soddered):
 - Wire the GND pin of the ADXl345 to the GND Pin on the Feather M4 Express.
 - Wire the VCC pin of the ADXL345 to the 3v3 Pin on the Feather M4 Express.
 - Wire the SCL pin of the ADXL345 to the SCL Pin on the Feather M4 Express.
