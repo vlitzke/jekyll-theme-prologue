@@ -1,7 +1,8 @@
 ### Set up the circuitry for the two to talk
 
-Before any coding is to be done, we have to attach the hookup wires. So far I placed my Feather M4 Express and ADXl345 Accelerometer on my bread board (both have been soddered):
-- Wire the GND pin of the ADXl345 to the GND Pin on the Feather M4 Express.
+
+Before any coding is to be done, we have to attach the hookup wires. So far I placed my Feather M4 Express and ADXl345 Accelerometer on my breadboard (both have been soddered):
+- Wire the GND pin of the ADXL345 to the GND Pin on the Feather M4 Express.
 - Wire the VCC pin of the ADXL345 to the 3v3 Pin on the Feather M4 Express.
 - Wire the SCL pin of the ADXL345 to the SCL Pin on the Feather M4 Express.
 - Wire the SDA pin of the ADXL345 to the SCL Pin on the Feather M4 Express.
