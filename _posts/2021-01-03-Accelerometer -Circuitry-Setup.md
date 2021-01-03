@@ -50,6 +50,6 @@ void loop(void) //automatically runs after the “setup()” function has finish
 }
 ```
 
-#### Testing 
+## Testing 
 1. To upload the code to the microcontroller, click “Verify”, then “Upload”.
 2. You can now see that the accelerometer is feeding real-time measurements through the serial monitor (click "Tools", then "Serial Monitor"). You can also look at the serial plotter, although both windows cannot be opened at the same time.
