@@ -1,6 +1,4 @@
-## Set up the circuitry for the accelerometer to talk to the microcontroller 
-
-First and foremost, I used [this source](https://pimylifeup.com/arduino-accelerometer-adxl345/).
+### Set up the circuitry for the two to talk
 
 Before any coding is to be done, we have to attach the hookup wires. So far I placed my Feather M4 Express and ADXl345 Accelerometer on my bread board (both have been soddered):
 - Wire the GND pin of the ADXl345 to the GND Pin on the Feather M4 Express.
@@ -8,11 +6,11 @@ Before any coding is to be done, we have to attach the hookup wires. So far I pl
 - Wire the SCL pin of the ADXL345 to the SCL Pin on the Feather M4 Express.
 - Wire the SDA pin of the ADXL345 to the SCL Pin on the Feather M4 Express.
 
-## Import existing libraries
+### Import existing libraries
 1. Open up Arduino IDE --> Sketch -> Include Library -> Manage Libraries. 
 2. Search for and install both “Adafruit ADXL345 by Adafruit” and “Adafruit Unified Sensor” libraries. 
 
-## Code
+### Code
 At the very top of a new file, enter the following to include libraries:
 ```
 #include <Wire.h>
@@ -52,6 +50,9 @@ void loop(void) //automatically runs after the “setup()” function has finish
 }
 ```
 
-## Testing 
+### Testing 
 1. To upload the code to the microcontroller, click “Verify”, then “Upload”.
 2. You can now see that the accelerometer is feeding real-time measurements through the serial monitor (click "Tools", then "Serial Monitor"). You can also look at the serial plotter, although both windows cannot be opened at the same time.
+
+
+This information was taken from [this source](https://pimylifeup.com/arduino-accelerometer-adxl345/).
