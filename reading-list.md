@@ -20,7 +20,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Patchett, Ann: *Truth and Beauty* (courtesy of Emilie <3)
 - Roth, Philip: *Everyman*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
-- Woodhouse, P.G.: *Right Go, Jeeves*
+- Woodhouse, P.G.: *Right Ho, Jeeves*
 - Zamyatin, Yevgeny: *We*
 - Zauner, Michelle: *Crying in H Mart*
 
