@@ -73,6 +73,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Pratchett, Terry: *The Colour of Magic*
 - Pratchett, Terry: *The Light Fantastic*
 - Raskin, Ellen: *The Westing Game* 
+- Ronson, Jon: *The Psychopath Test*
 - Rushdie, Salman: *Midnight's Children*
 - Savage, Sam: *Firmin: Adventures of a Metropolitan Lowlife*
 - Strayed, Cheryl: *Wild*
