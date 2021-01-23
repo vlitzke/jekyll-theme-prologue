@@ -13,6 +13,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Saini, Angela: *Superior: The Return of Race Science*
 
 ### To-read list: 
+- Backman, Fredrik: *Anxious People*
 - Botton, Alain de: *The Consolations of Philosophy*
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Carter, Angela: *The Passion of New Eve*
