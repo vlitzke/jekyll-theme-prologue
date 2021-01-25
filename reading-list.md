@@ -10,6 +10,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 ### Currently reading:
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Rodriguez, Deborah: *The Little Coffee Shop of Kabul*
+- Sacks, Oliver: *The Man Who Mistook His Wife for a Hat*
 - Saini, Angela: *Superior: The Return of Race Science*
 
 ### To-read list: 
@@ -59,6 +60,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Keyes, Daniel: *Flowers for Algernon*
 - Larson, Erik: *The Devil in the White City*
 - Larsson, Stieg: *The Girl with the Dragon Tattoo Trilogy*
+- Marsh, Henry: *Admissions: A Life in Brain Surgery*
 - Martel, Yann: *Life of Pi*
 - McQuiston, Casey: *Red, White & Royal Blue* 
 - Morgenstern, Erin: *The Night Circus*
