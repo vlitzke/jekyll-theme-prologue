@@ -9,7 +9,6 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 
 ### Currently reading:
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
-- Patchett, Ann: *Truth and Beauty* (courtesy of Emilie <3)
 - Sacks, Oliver: *The Man Who Mistook His Wife for a Hat*
 - Saini, Angela: *Superior: The Return of Race Science*
 
@@ -70,6 +69,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Neuvel, Sylvain: *Sleeping Giants*
 - Norton, Graham: *Holding*
 - Obama, Michelle: *Becoming*
+- Patchett, Ann: *Truth and Beauty* (courtesy of Emilie <3)
 - Pirsig, Robert: *Zen and the Art of Motorcycle Maintenance* (well, half of it)
 - Poehler, Amy: *Yes Please* 
 - Pratchett, Terry: *The Colour of Magic*
