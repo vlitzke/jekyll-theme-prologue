@@ -9,16 +9,16 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 
 ### Currently reading:
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
-- Rodriguez, Deborah: *The Little Coffee Shop of Kabul*
+- Roth, Philip: *Everyman*
+- Sacks, Oliver: *The Man Who Mistook His Wife for a Hat*
 - Saini, Angela: *Superior: The Return of Race Science*
 
 ### To-read list: 
+- Backman, Fredrik: *Anxious People*
 - Botton, Alain de: *The Consolations of Philosophy*
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Carter, Angela: *The Passion of New Eve*
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
-- Patchett, Ann: *Truth and Beauty* (courtesy of Emilie <3)
-- Roth, Philip: *Everyman*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
 - Woodhouse, P.G.: *Right Ho, Jeeves*
 - Zamyatin, Yevgeny: *We*
@@ -37,6 +37,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Brown, Dan: *The Da Vinci Code*
 - Cline, Ernest: *Ready Player One*
 - Crouch, Blake: *Recursion*
+- Danielewski, Mark Z.: *House of Leaves*
 - Dawkins, Richard: *The Selfish Gene*
 - Diamond, Jared: *Guns, Germs, and Steel: The Fates of Human Societies* 
 - Doughty, Caitlin: *Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals about Death*
@@ -58,6 +59,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Keyes, Daniel: *Flowers for Algernon*
 - Larson, Erik: *The Devil in the White City*
 - Larsson, Stieg: *The Girl with the Dragon Tattoo Trilogy*
+- Marsh, Henry: *Admissions: A Life in Brain Surgery*
 - Martel, Yann: *Life of Pi*
 - McQuiston, Casey: *Red, White & Royal Blue* 
 - Morgenstern, Erin: *The Night Circus*
@@ -68,11 +70,14 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Neuvel, Sylvain: *Sleeping Giants*
 - Norton, Graham: *Holding*
 - Obama, Michelle: *Becoming*
+- Patchett, Ann: *Truth and Beauty* (courtesy of Emilie <3)
 - Pirsig, Robert: *Zen and the Art of Motorcycle Maintenance* (well, half of it)
 - Poehler, Amy: *Yes Please* 
 - Pratchett, Terry: *The Colour of Magic*
 - Pratchett, Terry: *The Light Fantastic*
 - Raskin, Ellen: *The Westing Game* 
+- Rodriguez, Deborah: *The Little Coffee Shop of Kabul*
+- Ronson, Jon: *The Psychopath Test*
 - Rushdie, Salman: *Midnight's Children*
 - Savage, Sam: *Firmin: Adventures of a Metropolitan Lowlife*
 - Strayed, Cheryl: *Wild*
