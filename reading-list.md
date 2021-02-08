@@ -9,6 +9,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 
 ### Currently reading:
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
+- Roth, Philip: *Everyman*
 - Sacks, Oliver: *The Man Who Mistook His Wife for a Hat*
 - Saini, Angela: *Superior: The Return of Race Science*
 
@@ -18,7 +19,6 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Carter, Angela: *The Passion of New Eve*
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
-- Roth, Philip: *Everyman*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
 - Woodhouse, P.G.: *Right Ho, Jeeves*
 - Zamyatin, Yevgeny: *We*
