@@ -37,6 +37,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Brown, Dan: *The Da Vinci Code*
 - Cline, Ernest: *Ready Player One*
 - Crouch, Blake: *Recursion*
+- Danielewski, Mark Z.: *House of Leaves*
 - Dawkins, Richard: *The Selfish Gene*
 - Diamond, Jared: *Guns, Germs, and Steel: The Fates of Human Societies* 
 - Doughty, Caitlin: *Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals about Death*
@@ -85,5 +86,6 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Turton, Stuart: *The Seven Deaths of Evelyn Hardcastle*
 - Wilde, Oscar: *The Picture of Dorian Gray*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
+
 
 If you made it to the bottom of this list, congratulations! If you have any suggestions, let me know :) 
