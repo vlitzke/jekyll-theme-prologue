@@ -9,7 +9,6 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 
 ### Currently reading:
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
-- Roth, Philip: *Everyman*
 - Sacks, Oliver: *The Man Who Mistook His Wife for a Hat*
 - Saini, Angela: *Superior: The Return of Race Science*
 
@@ -18,8 +17,10 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Botton, Alain de: *The Consolations of Philosophy*
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Carter, Angela: *The Passion of New Eve*
+- Corey, James S.A.: *Leviathan Wakes*
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
+- Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
 - Woodhouse, P.G.: *Right Ho, Jeeves*
 - Zamyatin, Yevgeny: *We*
 - Zauner, Michelle: *Crying in H Mart*
@@ -78,6 +79,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Raskin, Ellen: *The Westing Game* 
 - Rodriguez, Deborah: *The Little Coffee Shop of Kabul*
 - Ronson, Jon: *The Psychopath Test*
+- Roth, Philip: *Everyman*
 - Rushdie, Salman: *Midnight's Children*
 - Savage, Sam: *Firmin: Adventures of a Metropolitan Lowlife*
 - Strayed, Cheryl: *Wild*
