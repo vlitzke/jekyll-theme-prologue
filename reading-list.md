@@ -8,13 +8,12 @@ order: 3
 Just about everyone lists reading as one of their hobbies, I am one of them. I tried keeping lists over the years on scraps of paper or in old planners of finished books but I end up losing them somewhere, somehow. It often happens that I come across a book recommmendation and not even realize that I already read it, so I figure this is more for me to stay organized than for your enjoyment.  
 
 ### Currently reading:
+- Botton, Alain de: *The Consolations of Philosophy*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
-- Sacks, Oliver: *The Man Who Mistook His Wife for a Hat*
 - Saini, Angela: *Superior: The Return of Race Science*
 
 ### To-read list: 
 - Backman, Fredrik: *Anxious People*
-- Botton, Alain de: *The Consolations of Philosophy*
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Carter, Angela: *The Passion of New Eve*
 - Corey, James S.A.: *Leviathan Wakes*
@@ -81,6 +80,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Ronson, Jon: *The Psychopath Test*
 - Roth, Philip: *Everyman*
 - Rushdie, Salman: *Midnight's Children*
+- Sacks, Oliver: *The Man Who Mistook His Wife for a Hat*
 - Savage, Sam: *Firmin: Adventures of a Metropolitan Lowlife*
 - Strayed, Cheryl: *Wild*
 - Tan, Amy: *The Joy Luck Club*
