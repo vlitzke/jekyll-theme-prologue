@@ -18,6 +18,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Carter, Angela: *The Passion of New Eve*
 - Corey, James S.A.: *Leviathan Wakes*
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
+- Leckie Ann: *Ancillary Justice*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
 - Woodhouse, P.G.: *Right Ho, Jeeves*
