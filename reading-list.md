@@ -8,15 +8,15 @@ order: 3
 Just about everyone lists reading as one of their hobbies, I am one of them. I tried keeping lists over the years on scraps of paper or in old planners of finished books but I end up losing them somewhere, somehow. It often happens that I come across a book recommmendation and not even realize that I already read it, so I figure this is more for me to stay organized than for your enjoyment.  
 
 ### Currently reading:
-- Botton, Alain de: *The Consolations of Philosophy*
+- Corey, James S.A.: *Leviathan Wakes*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
+- Ritchie, Stuart: *Science Fictions*
 - Saini, Angela: *Superior: The Return of Race Science*
+- Schlink, Bernhard: *The Reader*
 
 ### To-read list: 
 - Backman, Fredrik: *Anxious People*
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
-- Carter, Angela: *The Passion of New Eve*
-- Corey, James S.A.: *Leviathan Wakes*
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Leckie Ann: *Ancillary Justice*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
@@ -33,9 +33,11 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Ansari, Aziz: *Modern Romance: An Investigation*
 - Atwood, Margaret: *The Handmaid's Tale*
 - Auster, Paul: *Oracle Night*
+- Botton, Alain de: *The Consolations of Philosophy*
 - Bregman, Rutger: *Utopia for Realists* 
 - Brown, Dan: *Angels and Demons*
 - Brown, Dan: *The Da Vinci Code*
+- Carter, Angela: *The Passion of New Eve*
 - Cline, Ernest: *Ready Player One*
 - Crouch, Blake: *Recursion*
 - Danielewski, Mark Z.: *House of Leaves*
@@ -72,6 +74,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Norton, Graham: *Holding*
 - Obama, Michelle: *Becoming*
 - Patchett, Ann: *Truth and Beauty* (courtesy of Emilie <3)
+- Patterson, James: *Worst Case*
 - Pirsig, Robert: *Zen and the Art of Motorcycle Maintenance* (well, half of it)
 - Poehler, Amy: *Yes Please* 
 - Pratchett, Terry: *The Colour of Magic*
