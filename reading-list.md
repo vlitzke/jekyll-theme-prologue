@@ -27,7 +27,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 
 ---
 
-### Notable books from the past few years:
+### Notable books from the past year or so:
 - Adams, Douglas: *The Hitchhiker's Guide to the Galaxy*
 - Albom, Mitch: *The Five People You Meet in Heaven*
 - Ansari, Aziz: *Modern Romance: An Investigation*
