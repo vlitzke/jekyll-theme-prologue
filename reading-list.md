@@ -9,14 +9,15 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 
 ### Currently reading:
 - Backman, Fredrik: *Anxious People*
+- Bradley, Alan: *The Sweetness at the Bottom of the Pie*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Ritchie, Stuart: *Science Fictions*
-- Saini, Angela: *Superior: The Return of Race Science*
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Leckie Ann: *Ancillary Justice*
+- Jemison, N.K.: *The Fifth Season*
 - Safina, Carl: *Becoming Wild*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
@@ -53,6 +54,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Haddon, Mark: *The Curious Incident of the Dog in the Night-Time*
 - Harari, Yuval Noah: *Sapiens: A Brief History of Humankind*
 - Hawthorne, Nathaniel: *The Scarlet Letter*
+- Hoffman, Alice: *Practical Magic*
 - Hornby, Nick: *A Long Way Down*
 - Honeyman, Gail: *Eleanor Oliphant is Completely Fine*
 - Hosseini, Khaled: *A Thousand Splendid Suns*
@@ -75,6 +77,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Norton, Graham: *Holding*
 - Obama, Michelle: *Becoming*
 - Patchett, Ann: *Truth and Beauty* (courtesy of Emilie <3)
+- Patterson, James: *Juror No. 3*
 - Patterson, James: *Worst Case*
 - Pirsig, Robert: *Zen and the Art of Motorcycle Maintenance* (well, half of it)
 - Poehler, Amy: *Yes Please* 
@@ -86,6 +89,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Roth, Philip: *Everyman*
 - Rushdie, Salman: *Midnight's Children*
 - Sacks, Oliver: *The Man Who Mistook His Wife for a Hat*
+- Saini, Angela: *Superior: The Return of Race Science*
 - Savage, Sam: *Firmin: Adventures of a Metropolitan Lowlife*
 - Schlink, Bernhard: *The Reader*
 - Strayed, Cheryl: *Wild*
