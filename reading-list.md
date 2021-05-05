@@ -8,15 +8,16 @@ order: 3
 Just about everyone lists reading as one of their hobbies, I am one of them. I tried keeping lists over the years on scraps of paper or in old planners of finished books but I end up losing them somewhere, somehow. It often happens that I come across a book recommmendation and not even realize that I already read it, so I figure this is more for me to stay organized than for your enjoyment.  
 
 ### Currently reading:
+- Backman, Fredrik: *Anxious People*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Ritchie, Stuart: *Science Fictions*
 - Saini, Angela: *Superior: The Return of Race Science*
 
 ### To-read list: 
-- Backman, Fredrik: *Anxious People*
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Leckie Ann: *Ancillary Justice*
+- Safina, Carl: *Becoming Wild*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
 - Woodhouse, P.G.: *Right Ho, Jeeves*
@@ -36,6 +37,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Brown, Dan: *Angels and Demons*
 - Brown, Dan: *The Da Vinci Code*
 - Carter, Angela: *The Passion of New Eve*
+- Chambers, Becky: *The Long Way to a Small, Angry Planet*
 - Cline, Ernest: *Ready Player One*
 - Corey, James S.A.: *Leviathan Wakes*
 - Crouch, Blake: *Recursion*
