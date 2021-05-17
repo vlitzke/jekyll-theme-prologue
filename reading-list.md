@@ -18,8 +18,14 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Leckie Ann: *Ancillary Justice*
 - Jemison, N.K.: *The Fifth Season*
+- McDermid, Val: *The Mermaids Singing*
+- Murakami, Haruki: *What I Talk About When I Talk About Running*
+- Orwell, George: *Down and Out in Paris and London*
+- Reilly, Matthew: *The Secret Runners of New York*
+- Rushdie, Salman: *The Golden House*
 - Safina, Carl: *Becoming Wild*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
+- Sun, Jonny: *Goodbye, Again*
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
 - Woodhouse, P.G.: *Right Ho, Jeeves*
 - Zamyatin, Yevgeny: *We*
