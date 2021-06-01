@@ -25,7 +25,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Rushdie, Salman: *The Golden House*
 - Safina, Carl: *Becoming Wild*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
-- Spufford, Francis: *Red Plenty"
+- Spufford, Francis: *Red Plenty*
 - Sun, Jonny: *Goodbye, Again*
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
 - Woodhouse, P.G.: *Right Ho, Jeeves*
