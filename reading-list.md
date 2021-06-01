@@ -15,6 +15,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
+- Deakin, Leona: *Gone*
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Leckie Ann: *Ancillary Justice*
 - Jemison, N.K.: *The Fifth Season*
