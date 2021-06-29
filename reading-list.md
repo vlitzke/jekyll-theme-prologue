@@ -8,21 +8,22 @@ order: 3
 Just about everyone lists reading as one of their hobbies, I am one of them. I tried keeping lists over the years on scraps of paper or in old planners of finished books but I end up losing them somewhere, somehow. It often happens that I come across a book recommmendation and not even realize that I already read it, so I figure this is more for me to stay organized than for your enjoyment.  
 
 ### Currently reading:
-- Backman, Fredrik: *Anxious People*
-- Bradley, Alan: *The Sweetness at the Bottom of the Pie*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Ritchie, Stuart: *Science Fictions*
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Deakin, Leona: *Gone*
+- Dunnett, Dorothy: *Lymond* series 
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Leckie Ann: *Ancillary Justice*
 - Jemison, N.K.: *The Fifth Season*
 - Kay, Adam: *This is Going to Hurt' 
+- Kimmerer, Robin Wall: *Braiding Sweetgrass*
 - McDermid, Val: *The Mermaids Singing*
 - Murakami, Haruki: *What I Talk About When I Talk About Running*
 - Orwell, George: *Down and Out in Paris and London*
+- Penny, Louise: *Still Life*
 - Reilly, Matthew: *The Secret Runners of New York*
 - Rushdie, Salman: *The Golden House*
 - Safina, Carl: *Becoming Wild*
@@ -41,9 +42,11 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Albom, Mitch: *The Five People You Meet in Heaven*
 - Ansari, Aziz: *Modern Romance: An Investigation*
 - Atwood, Margaret: *The Handmaid's Tale*
-- Banks, Ian: *The Hanging Garden*
 - Auster, Paul: *Oracle Night*
+- Backman, Fredrik: *Anxious People*
+- Banks, Ian: *The Hanging Garden*
 - Botton, Alain de: *The Consolations of Philosophy*
+- Bradley, Alan: *The Sweetness at the Bottom of the Pie*
 - Bregman, Rutger: *Utopia for Realists* 
 - Brown, Dan: *Angels and Demons*
 - Brown, Dan: *The Da Vinci Code*
