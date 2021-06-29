@@ -13,6 +13,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
+- Cixin, Liu: *The Three-Body Problem Trilogy*
 - Deakin, Leona: *Gone*
 - Dunnett, Dorothy: *Lymond* series 
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
