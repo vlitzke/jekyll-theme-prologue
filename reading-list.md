@@ -18,7 +18,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Leckie Ann: *Ancillary Justice*
 - Jemison, N.K.: *The Fifth Season*
-- Kay, Adam: *This is Going to Hurt' 
+- Kay, Adam: *This is Going to Hurt*
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
 - McDermid, Val: *The Mermaids Singing*
 - Murakami, Haruki: *What I Talk About When I Talk About Running*
