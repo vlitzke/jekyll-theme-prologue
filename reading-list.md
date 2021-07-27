@@ -8,8 +8,8 @@ order: 3
 Just about everyone lists reading as one of their hobbies, I am one of them. I tried keeping lists over the years on scraps of paper or in old planners of finished books but I end up losing them somewhere, somehow. It often happens that I come across a book recommmendation and not even realize that I already read it, so I figure this is more for me to stay organized than for your enjoyment.  
 
 ### Currently reading:
+- Diamond, Jared: *The Third Chimpanzee*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
-- Ritchie, Stuart: *Science Fictions*
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
@@ -23,7 +23,6 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
 - McDermid, Val: *The Mermaids Singing*
 - Murakami, Haruki: *What I Talk About When I Talk About Running*
-- Orwell, George: *Down and Out in Paris and London*
 - Penny, Louise: *Still Life*
 - Reilly, Matthew: *The Secret Runners of New York*
 - Rushdie, Salman: *The Golden House*
@@ -42,6 +41,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Adams, Douglas: *The Hitchhiker's Guide to the Galaxy*
 - Albom, Mitch: *The Five People You Meet in Heaven*
 - Ansari, Aziz: *Modern Romance: An Investigation*
+- Asimov, Isaac: *Foundation*
 - Atwood, Margaret: *The Handmaid's Tale*
 - Auster, Paul: *Oracle Night*
 - Backman, Fredrik: *Anxious People*
@@ -90,6 +90,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Neuvel, Sylvain: *Sleeping Giants*
 - Norton, Graham: *Holding*
 - Obama, Michelle: *Becoming*
+- Orwell, George: *Down and Out in Paris and London*
 - Patchett, Ann: *Truth and Beauty* (courtesy of Emilie <3)
 - Patterson, James: *Juror No. 3*
 - Patterson, James: *Worst Case*
@@ -98,6 +99,7 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Pratchett, Terry: *The Colour of Magic*
 - Pratchett, Terry: *The Light Fantastic*
 - Raskin, Ellen: *The Westing Game* 
+- Ritchie, Stuart: *Science Fictions*
 - Rodriguez, Deborah: *The Little Coffee Shop of Kabul*
 - Ronson, Jon: *The Psychopath Test*
 - Roth, Philip: *Everyman*
