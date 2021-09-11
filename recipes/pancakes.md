@@ -1,3 +1,4 @@
+<!--
 # Pancakes
 
 ## Ingredients
@@ -17,3 +18,5 @@
 2. Beat the eggs into the milk.
 3. Add wet ingredients to dry.
 4. Heat pan to medium/high. Use butter in between each pancake for that nice even color!
+
+-->
