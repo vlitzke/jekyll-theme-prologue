@@ -8,12 +8,13 @@ order: 3
 Just about everyone lists reading as one of their hobbies, I am one of them. I tried keeping lists over the years on scraps of paper or in old planners of finished books but I end up losing them somewhere, somehow. It often happens that I come across a book recommmendation and not even realize that I already read it, so I figure this is more for me to stay organized than for your enjoyment.  
 
 ### Currently reading:
-- Diamond, Jared: *The Third Chimpanzee*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
+- Steel, Tom: *The Life & Death of St Kilda*
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Cixin, Liu: *The Three-Body Problem Trilogy*
+- Cowart, Leigh: *The Science and Culture of Pain on Purpose*
 - Deakin, Leona: *Gone*
 - Dunnett, Dorothy: *Lymond* series 
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
@@ -33,7 +34,6 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
 - Woodhouse, P.G.: *Right Ho, Jeeves*
 - Zamyatin, Yevgeny: *We*
-- Zauner, Michelle: *Crying in H Mart*
 
 ---
 
@@ -114,5 +114,6 @@ Just about everyone lists reading as one of their hobbies, I am one of them. I t
 - Turton, Stuart: *The Seven Deaths of Evelyn Hardcastle*
 - Wilde, Oscar: *The Picture of Dorian Gray*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
+- Zauner, Michelle: *Crying in H Mart*
 
 If you made it to the bottom of this list, congratulations! If you have any suggestions, let me know :) 
