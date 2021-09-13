@@ -24,6 +24,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
 - McDermid, Val: *The Mermaids Singing*
 - Murakami, Haruki: *What I Talk About When I Talk About Running*
+- Pynchon, Thomas: *Gravity's Rainbow*
 - Penny, Louise: *Still Life*
 - Reilly, Matthew: *The Secret Runners of New York*
 - Rushdie, Salman: *The Golden House*
