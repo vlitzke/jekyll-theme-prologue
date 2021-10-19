@@ -9,13 +9,13 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 
 ### Currently reading:
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
+- Pynchon, Thomas: *Gravity's Rainbow*
 - Steel, Tom: *The Life & Death of St Kilda*
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Cixin, Liu: *The Three-Body Problem Trilogy*
 - Cowart, Leigh: *The Science and Culture of Pain on Purpose*
-- Deakin, Leona: *Gone*
 - Dunnett, Dorothy: *Lymond* series 
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Leckie Ann: *Ancillary Justice*
@@ -24,8 +24,6 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
 - Luiselli, Valeria: *Lost Children Archive*
 - McDermid, Val: *The Mermaids Singing*
-- Murakami, Haruki: *What I Talk About When I Talk About Running*
-- Pynchon, Thomas: *Gravity's Rainbow*
 - Penny, Louise: *Still Life*
 - Reilly, Matthew: *The Secret Runners of New York*
 - Rushdie, Salman: *The Golden House*
@@ -60,6 +58,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Crouch, Blake: *Recursion*
 - Danielewski, Mark Z.: *House of Leaves*
 - Dawkins, Richard: *The Selfish Gene*
+- Deakin, Leona: *Gone*
 - Diamond, Jared: *Guns, Germs, and Steel: The Fates of Human Societies* 
 - Doughty, Caitlin: *Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals about Death*
 - Ende, Michael: *Die unendliche Geschichte*
@@ -89,6 +88,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Murakami, Haruki: *A Wild Sheep's Chase* 
 - Murakami, Haruki: *1Q84* 
 - Murakami, Haruki: *Kafka on the Shore*
+- Murakami, Haruki: *What I Talk About When I Talk About Running*
 - Neuvel, Sylvain: *Sleeping Giants*
 - Norton, Graham: *Holding*
 - Obama, Michelle: *Becoming*
