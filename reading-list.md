@@ -8,6 +8,7 @@ order: 3
 I have tried keeping lists of fnished books over the years on scraps of paper or in old planners but I end up losing them somewhere, somehow, in some other dimension. It often happens that I come across a book recommendation and not even realize that I have already read it, so really, this is more for me to stay organized than for your enjoyment.  
 
 ### Currently reading:
+- Ferrante, Elena: *My Brilliant Friend*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Pynchon, Thomas: *Gravity's Rainbow*
 - Steel, Tom: *The Life & Death of St Kilda*
@@ -18,11 +19,11 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Cowart, Leigh: *The Science and Culture of Pain on Purpose*
 - Dunnett, Dorothy: *Lymond* series 
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
-- Leckie Ann: *Ancillary Justice*
 - Jemison, N.K.: *The Fifth Season*
 - Kay, Adam: *This is Going to Hurt*
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
 - Luiselli, Valeria: *Lost Children Archive*
+- Machado, Carmen Maria: *n the Dream House*
 - McDermid, Val: *The Mermaids Singing*
 - Penny, Louise: *Still Life*
 - Reilly, Matthew: *The Secret Runners of New York*
@@ -67,6 +68,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Gaiman, Niel: *American Gods*
 - Gaiman, Niel: *Norse Mythology*
 - Haddon, Mark: *The Curious Incident of the Dog in the Night-Time*
+- Haig, Matt: *The Midnight Library*
 - Harari, Yuval Noah: *Sapiens: A Brief History of Humankind*
 - Hawthorne, Nathaniel: *The Scarlet Letter*
 - Hoffman, Alice: *Practical Magic*
@@ -80,6 +82,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Keyes, Daniel: *Flowers for Algernon*
 - Larson, Erik: *The Devil in the White City*
 - Larsson, Stieg: *The Girl with the Dragon Tattoo Trilogy*
+- Leckie Ann: *Ancillary Justice*
 - Marsh, Henry: *Admissions: A Life in Brain Surgery*
 - Martel, Yann: *Life of Pi*
 - McQuiston, Casey: *Red, White & Royal Blue* 
