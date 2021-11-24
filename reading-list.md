@@ -8,7 +8,6 @@ order: 3
 I have tried keeping lists of fnished books over the years on scraps of paper or in old planners but I end up losing them somewhere, somehow, in some other dimension. It often happens that I come across a book recommendation and not even realize that I have already read it, so really, this is more for me to stay organized than for your enjoyment.  
 
 ### Currently reading:
-- Ferrante, Elena: *My Brilliant Friend*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Pynchon, Thomas: *Gravity's Rainbow*
 - Steel, Tom: *The Life & Death of St Kilda*
@@ -25,6 +24,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Luiselli, Valeria: *Lost Children Archive*
 - Machado, Carmen Maria: *n the Dream House*
 - McDermid, Val: *The Mermaids Singing*
+- Nicholls, David: *One Day*
 - Penny, Louise: *Still Life*
 - Reilly, Matthew: *The Secret Runners of New York*
 - Rushdie, Salman: *The Golden House*
@@ -63,6 +63,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Diamond, Jared: *Guns, Germs, and Steel: The Fates of Human Societies* 
 - Doughty, Caitlin: *Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals about Death*
 - Ende, Michael: *Die unendliche Geschichte*
+- Ferrante, Elena: *My Brilliant Friend*
 - Flynn, Gillian: *Gone Girl*
 - Flynn, Gillian: *Sharp Objects*
 - Gaiman, Niel: *American Gods*
