@@ -54,6 +54,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Brown, Dan: *The Da Vinci Code*
 - Carter, Angela: *The Passion of New Eve*
 - Chambers, Becky: *The Long Way to a Small, Angry Planet*
+- Christie, Agatha: *Murder on the Orient Express*
 - Cline, Ernest: *Ready Player One*
 - Corey, James S.A.: *Leviathan Wakes*
 - Crouch, Blake: *Recursion*
