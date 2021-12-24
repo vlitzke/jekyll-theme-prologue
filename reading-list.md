@@ -10,7 +10,6 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 ### Currently reading:
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Pynchon, Thomas: *Gravity's Rainbow*
-- Steel, Tom: *The Life & Death of St Kilda*
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
@@ -22,7 +21,6 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Kay, Adam: *This is Going to Hurt*
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
 - Luiselli, Valeria: *Lost Children Archive*
-- Machado, Carmen Maria: *n the Dream House*
 - McDermid, Val: *The Mermaids Singing*
 - Nicholls, David: *One Day*
 - Penny, Louise: *Still Life*
@@ -85,6 +83,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Larson, Erik: *The Devil in the White City*
 - Larsson, Stieg: *The Girl with the Dragon Tattoo Trilogy*
 - Leckie Ann: *Ancillary Justice*
+- Machado, Carmen Maria: *In the Dream House*
 - Marsh, Henry: *Admissions: A Life in Brain Surgery*
 - Martel, Yann: *Life of Pi*
 - McQuiston, Casey: *Red, White & Royal Blue* 
@@ -115,6 +114,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Saini, Angela: *Superior: The Return of Race Science*
 - Savage, Sam: *Firmin: Adventures of a Metropolitan Lowlife*
 - Schlink, Bernhard: *The Reader*
+- Steel, Tom: *The Life & Death of St Kilda*
 - Strayed, Cheryl: *Wild*
 - Tan, Amy: *The Joy Luck Club*
 - Towles, Amor: *A Gentleman in Moscow*
