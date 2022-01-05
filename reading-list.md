@@ -13,6 +13,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
+- Brown, Elaine: *A Taste of Power: A Black Woman's Story*
 - Cixin, Liu: *The Three-Body Problem Trilogy*
 - Cowart, Leigh: *The Science and Culture of Pain on Purpose*
 - Dunnett, Dorothy: *Lymond* series 
