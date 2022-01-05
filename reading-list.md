@@ -8,8 +8,10 @@ order: 3
 I have tried keeping lists of fnished books over the years on scraps of paper or in old planners but I end up losing them somewhere, somehow, in some other dimension. It often happens that I come across a book recommendation and not even realize that I have already read it, so really, this is more for me to stay organized than for your enjoyment.  
 
 ### Currently reading:
+- Ende, Michael: *Momo*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Pynchon, Thomas: *Gravity's Rainbow*
+- Shaffer & Barrows: *The Guernsey Literary and Potato Peel Pie Society*
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
