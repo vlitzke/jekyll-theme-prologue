@@ -19,12 +19,16 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Cixin, Liu: *The Three-Body Problem Trilogy*
 - Cowart, Leigh: *The Science and Culture of Pain on Purpose*
 - Dunnett, Dorothy: *Lymond* series 
+- Farrow, Ronan: *Catch and Kill*
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Jemison, N.K.: *The Fifth Season*
 - Kay, Adam: *This is Going to Hurt*
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
+- Lawrence,  D. H.: *Lady Chatterley's Lover*
 - Luiselli, Valeria: *Lost Children Archive*
 - McDermid, Val: *The Mermaids Singing*
+- Nabokov: *Lolita*
+- Nabokov: *Pnin*
 - Nicholls, David: *One Day*
 - Penny, Louise: *Still Life*
 - Reilly, Matthew: *The Secret Runners of New York*
@@ -33,6 +37,9 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
 - Spufford, Francis: *Red Plenty*
 - Sun, Jonny: *Goodbye, Again*
+- Taddeo, Lisa: *Three Women*
+- Talese, Gay: *Honor Thy Father* 
+- Talese, Gay: *Thy Neighbor's Wife* 
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
 - Woodhouse, P.G.: *Right Ho, Jeeves*
 - Zamyatin, Yevgeny: *We*
