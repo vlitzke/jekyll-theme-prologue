@@ -34,6 +34,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Reilly, Matthew: *The Secret Runners of New York*
 - Rushdie, Salman: *The Golden House*
 - Safina, Carl: *Becoming Wild*
+- Singer, Margaret & Lalich, Janja: *Cults in Our Midst*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
 - Spufford, Francis: *Red Plenty*
 - Sun, Jonny: *Goodbye, Again*
