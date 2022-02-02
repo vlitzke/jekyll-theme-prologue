@@ -54,6 +54,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Asimov, Isaac: *Foundation*
 - Atwood, Margaret: *The Handmaid's Tale*
 - Auster, Paul: *Oracle Night*
+- Auster, Paul: *The New York Trilogy*
 - Backman, Fredrik: *Anxious People*
 - Banks, Ian: *The Hanging Garden*
 - Botton, Alain de: *The Consolations of Philosophy*
