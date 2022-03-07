@@ -11,7 +11,6 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Ende, Michael: *Momo*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Pynchon, Thomas: *Gravity's Rainbow*
-- Shaffer & Barrows: *The Guernsey Literary and Potato Peel Pie Society*
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
@@ -57,6 +56,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Auster, Paul: *The New York Trilogy*
 - Backman, Fredrik: *Anxious People*
 - Banks, Ian: *The Hanging Garden*
+- Blyton, Enid: *Five Give Up the Booze*
 - Botton, Alain de: *The Consolations of Philosophy*
 - Bradley, Alan: *The Sweetness at the Bottom of the Pie*
 - Bregman, Rutger: *Utopia for Realists* 
