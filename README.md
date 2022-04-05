@@ -2,7 +2,7 @@ Hello! This is the repository for my website code.
 
 My goal is to ultimately keep everything in one spot, from ideas to recipes, from my PhD journey to hobbies. Sort of like journaling, but without being able to lose a journal. Enjoy! 
 
-I used to Prologue Jekyll theme, which is a single page responsive site template from [HTML5 UP](https://html5up.net/prologue), now available as a blog-aware Jekyll theme from [Chris Bobbe](https://chrisbobbe.github.io). 
+I used the Prologue Jekyll theme, which is a single page responsive site template from [HTML5 UP](https://html5up.net/prologue), now available as a blog-aware Jekyll theme from [Chris Bobbe](https://chrisbobbe.github.io). 
 
 To add my Spotify playlists, I adapted code from this repository: DoomPatrol/responsive-spotify-widget
 
