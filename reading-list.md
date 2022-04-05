@@ -99,6 +99,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Marsh, Henry: *Admissions: A Life in Brain Surgery*
 - Martel, Yann: *Life of Pi*
 - McQuiston, Casey: *Red, White & Royal Blue* 
+- Miéville, China: *The City & the City*
 - Morgenstern, Erin: *The Night Circus*
 - Murakami, Haruki: *Absolutely on Music: Conversations with Seiji Ozawa* 
 - Murakami, Haruki: *A Wild Sheep's Chase* 
@@ -113,6 +114,7 @@ I have tried keeping lists of fnished books over the years on scraps of paper or
 - Patterson, James: *Juror No. 3*
 - Patterson, James: *Worst Case*
 - Pirsig, Robert: *Zen and the Art of Motorcycle Maintenance* (well, half of it)
+- Plaza, Aubrey and Murphy, Dan: *The Legend of the Christmas Witch*
 - Poehler, Amy: *Yes Please* 
 - Pratchett, Terry: *The Colour of Magic*
 - Pratchett, Terry: *The Light Fantastic*
