@@ -96,6 +96,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Larsson, Stieg: *The Girl with the Dragon Tattoo Trilogy*
 - Leckie Ann: *Ancillary Justice*
 - Machado, Carmen Maria: *In the Dream House*
+- Manson, Mark: *Everything is F@cked: A Book About Hope*
 - Marsh, Henry: *Admissions: A Life in Brain Surgery*
 - Martel, Yann: *Life of Pi*
 - McQuiston, Casey: *Red, White & Royal Blue* 
