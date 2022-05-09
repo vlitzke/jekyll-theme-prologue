@@ -15,7 +15,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Brown, Elaine: *A Taste of Power: A Black Woman's Story*
-- Cixin, Liu: *The Three-Body Problem Trilogy*
 - Cowart, Leigh: *The Science and Culture of Pain on Purpose*
 - Dunnett, Dorothy: *Lymond* series 
 - Farrow, Ronan: *Catch and Kill*
@@ -65,6 +64,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Carter, Angela: *The Passion of New Eve*
 - Chambers, Becky: *The Long Way to a Small, Angry Planet*
 - Christie, Agatha: *Murder on the Orient Express*
+- Cixin, Liu: *The Three-Body Problem*
 - Cline, Ernest: *Ready Player One*
 - Corey, James S.A.: *Leviathan Wakes*
 - Crouch, Blake: *Recursion*
