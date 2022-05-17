@@ -64,7 +64,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Carter, Angela: *The Passion of New Eve*
 - Chambers, Becky: *The Long Way to a Small, Angry Planet*
 - Christie, Agatha: *Murder on the Orient Express*
-- Cixin, Liu: *The Three-Body Problem*
 - Cline, Ernest: *Ready Player One*
 - Corey, James S.A.: *Leviathan Wakes*
 - Crouch, Blake: *Recursion*
@@ -95,6 +94,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Larson, Erik: *The Devil in the White City*
 - Larsson, Stieg: *The Girl with the Dragon Tattoo Trilogy*
 - Leckie Ann: *Ancillary Justice*
+- Liu, Cixin: *The Three-Body Problem*
 - Machado, Carmen Maria: *In the Dream House*
 - Manson, Mark: *Everything is F@cked: A Book About Hope*
 - Marsh, Henry: *Admissions: A Life in Brain Surgery*
