@@ -20,7 +20,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Farrow, Ronan: *Catch and Kill*
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Jemison, N.K.: *The Fifth Season*
-- Kay, Adam: *This is Going to Hurt*
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
 - Lawrence,  D. H.: *Lady Chatterley's Lover*
 - Luiselli, Valeria: *Lost Children Archive*
@@ -87,9 +86,10 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Honeyman, Gail: *Eleanor Oliphant is Completely Fine*
 - Hosseini, Khaled: *A Thousand Splendid Suns*
 - Hosseini, Khaled: *The Kiterunner*
+- Kahneman, Daniel: *Thinking, Fast and Slow*
 - Kaur, Rupi: *Milk and Honey*
 - Kaur, Rupi: *The Sun and Her Flowers*
-- Kahneman, Daniel: *Thinking, Fast and Slow*
+- Kay, Adam: *This is Going to Hurt*
 - Keyes, Daniel: *Flowers for Algernon*
 - Larson, Erik: *The Devil in the White City*
 - Larsson, Stieg: *The Girl with the Dragon Tattoo Trilogy*
