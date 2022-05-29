@@ -23,7 +23,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
 - Lawrence,  D. H.: *Lady Chatterley's Lover*
 - Luiselli, Valeria: *Lost Children Archive*
-- McDermid, Val: *The Mermaids Singing*
 - Nabokov: *Lolita*
 - Nabokov: *Pnin*
 - Nicholls, David: *One Day*
@@ -99,6 +98,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Manson, Mark: *Everything is F@cked: A Book About Hope*
 - Marsh, Henry: *Admissions: A Life in Brain Surgery*
 - Martel, Yann: *Life of Pi*
+- McDermid, Val: *The Mermaids Singing*
 - McQuiston, Casey: *Red, White & Royal Blue* 
 - Miéville, China: *The City & the City*
 - Morgenstern, Erin: *The Night Circus*
