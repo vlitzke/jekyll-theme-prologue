@@ -134,6 +134,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Tan, Amy: *The Joy Luck Club*
 - Towles, Amor: *A Gentleman in Moscow*
 - Turton, Stuart: *The Seven Deaths of Evelyn Hardcastle*
+-  Weir, Andy: *The Martian*
 - Wilde, Oscar: *The Picture of Dorian Gray*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
 - Zauner, Michelle: *Crying in H Mart*
