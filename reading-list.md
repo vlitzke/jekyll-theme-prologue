@@ -20,6 +20,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Farrow, Ronan: *Catch and Kill*
 - Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Jemison, N.K.: *The Fifth Season*
+- Kawakami, Mieko: *Breasts and Eggs*
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
 - Lawrence,  D. H.: *Lady Chatterley's Lover*
 - Luiselli, Valeria: *Lost Children Archive*
