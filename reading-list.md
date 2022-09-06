@@ -28,7 +28,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Nabokov: *Pnin*
 - Nicholls, David: *One Day*
 - Penny, Louise: *Still Life*
-- Reilly, Matthew: *The Secret Runners of New York*
 - Rushdie, Salman: *The Golden House*
 - Safina, Carl: *Becoming Wild*
 - Singer, Margaret & Lalich, Janja: *Cults in Our Midst*
@@ -70,6 +69,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Dawkins, Richard: *The Selfish Gene*
 - Deakin, Leona: *Gone*
 - Diamond, Jared: *Guns, Germs, and Steel: The Fates of Human Societies* 
+- Doughty, Caitlin: *Smoke Gets in Your Eyes*
 - Doughty, Caitlin: *Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals about Death*
 - Ende, Michael: *Die unendliche Geschichte*
 - Ferrante, Elena: *My Brilliant Friend*
@@ -86,6 +86,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Honeyman, Gail: *Eleanor Oliphant is Completely Fine*
 - Hosseini, Khaled: *A Thousand Splendid Suns*
 - Hosseini, Khaled: *The Kiterunner*
+- Ishiguro, Kazuo: *Never Let Me Go*
 - Kahneman, Daniel: *Thinking, Fast and Slow*
 - Kaur, Rupi: *Milk and Honey*
 - Kaur, Rupi: *The Sun and Her Flowers*
@@ -121,6 +122,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Pratchett, Terry: *The Colour of Magic*
 - Pratchett, Terry: *The Light Fantastic*
 - Raskin, Ellen: *The Westing Game* 
+- Reilly, Matthew: *The Secret Runners of New York*
 - Ritchie, Stuart: *Science Fictions*
 - Rodriguez, Deborah: *The Little Coffee Shop of Kabul*
 - Ronson, Jon: *The Psychopath Test*
@@ -135,7 +137,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Tan, Amy: *The Joy Luck Club*
 - Towles, Amor: *A Gentleman in Moscow*
 - Turton, Stuart: *The Seven Deaths of Evelyn Hardcastle*
--  Weir, Andy: *The Martian*
+- Weir, Andy: *The Martian*
 - Wilde, Oscar: *The Picture of Dorian Gray*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
 - Zauner, Michelle: *Crying in H Mart*
