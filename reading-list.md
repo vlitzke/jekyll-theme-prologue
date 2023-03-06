@@ -11,6 +11,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Ende, Michael: *Momo*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Pynchon, Thomas: *Gravity's Rainbow*
+- Zamyatin, Yevgeny: *We*
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
@@ -18,7 +19,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Cowart, Leigh: *The Science and Culture of Pain on Purpose*
 - Dunnett, Dorothy: *Lymond* series 
 - Farrow, Ronan: *Catch and Kill*
-- Haig, Matt: *Notes on a Nervous Planet* (Meike)
 - Jemison, N.K.: *The Fifth Season*
 - Kawakami, Mieko: *Breasts and Eggs*
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
@@ -39,7 +39,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Talese, Gay: *Thy Neighbor's Wife* 
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
 - Woodhouse, P.G.: *Right Ho, Jeeves*
-- Zamyatin, Yevgeny: *We*
 
 ---
 
@@ -86,6 +85,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Honeyman, Gail: *Eleanor Oliphant is Completely Fine*
 - Hosseini, Khaled: *A Thousand Splendid Suns*
 - Hosseini, Khaled: *The Kiterunner*
+- Ishiguro, Kazuo: *Klara and the Sun*
 - Ishiguro, Kazuo: *Never Let Me Go*
 - Kahneman, Daniel: *Thinking, Fast and Slow*
 - Kaur, Rupi: *Milk and Honey*
