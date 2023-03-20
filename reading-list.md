@@ -11,12 +11,11 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Ende, Michael: *Momo*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Pynchon, Thomas: *Gravity's Rainbow*
-- Zamyatin, Yevgeny: *We*
+- Godfrey-Smith, Peter: *Other Minds*
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Brown, Elaine: *A Taste of Power: A Black Woman's Story*
-- Cowart, Leigh: *The Science and Culture of Pain on Purpose*
 - Dunnett, Dorothy: *Lymond* series 
 - Farrow, Ronan: *Catch and Kill*
 - Jemison, N.K.: *The Fifth Season*
@@ -63,6 +62,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Christie, Agatha: *Murder on the Orient Express*
 - Cline, Ernest: *Ready Player One*
 - Corey, James S.A.: *Leviathan Wakes*
+- Cowart, Leigh: *The Science and Culture of Pain on Purpose*
 - Crouch, Blake: *Recursion*
 - Danielewski, Mark Z.: *House of Leaves*
 - Dawkins, Richard: *The Selfish Gene*
@@ -141,5 +141,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Wilde, Oscar: *The Picture of Dorian Gray*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
 - Zauner, Michelle: *Crying in H Mart*
+- Zamyatin, Yevgeny: *We*
 
 If you made it to the bottom of this list, congratulations! If you have any suggestions, let me know :) 
