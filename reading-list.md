@@ -18,10 +18,12 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Brown, Elaine: *A Taste of Power: A Black Woman's Story*
 - Dunnett, Dorothy: *Lymond* series 
 - Farrow, Ronan: *Catch and Kill*
+- Harpman, Jacqueline: *I Who Have Never Known Men*
 - Jemison, N.K.: *The Fifth Season*
 - Kawakami, Mieko: *Breasts and Eggs*
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
 - Lawrence,  D. H.: *Lady Chatterley's Lover*
+- Le Guin, Ursala: *The Left Hand of Darkness*
 - Luiselli, Valeria: *Lost Children Archive*
 - Nabokov: *Lolita*
 - Nabokov: *Pnin*
