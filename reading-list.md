@@ -81,6 +81,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Haddon, Mark: *The Curious Incident of the Dog in the Night-Time*
 - Haig, Matt: *The Midnight Library*
 - Harari, Yuval Noah: *Sapiens: A Brief History of Humankind*
+- Harpman, Jacqueline: *I Who Have Never Known Men* (ada)
 - Hawthorne, Nathaniel: *The Scarlet Letter*
 - Hoffman, Alice: *Practical Magic*
 - Hornby, Nick: *A Long Way Down*
