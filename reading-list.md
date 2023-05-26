@@ -128,6 +128,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Reilly, Matthew: *The Secret Runners of New York*
 - Ritchie, Stuart: *Science Fictions*
 - Rodriguez, Deborah: *The Little Coffee Shop of Kabul*
+- Ronson, Jon: *The Men Who Stare At Goats*
 - Ronson, Jon: *The Psychopath Test*
 - Roth, Philip: *Everyman*
 - Rushdie, Salman: *Midnight's Children*
