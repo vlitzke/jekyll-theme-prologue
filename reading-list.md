@@ -16,11 +16,13 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Brown, Elaine: *A Taste of Power: A Black Woman's Story*
+- Dazai, Osamu: *No Longer Human* (Tom)
 - Dunnett, Dorothy: *Lymond* series 
 - Farrow, Ronan: *Catch and Kill*
 - Harpman, Jacqueline: *I Who Have Never Known Men*
 - Jemison, N.K.: *The Fifth Season*
 - Kawakami, Mieko: *Breasts and Eggs*
+- Kent, Hannah: *Devotion* (Tom)
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
 - Lawrence,  D. H.: *Lady Chatterley's Lover*
 - Le Guin, Ursala: *The Left Hand of Darkness*
