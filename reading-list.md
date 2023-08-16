@@ -71,10 +71,12 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Danielewski, Mark Z.: *House of Leaves*
 - Dawkins, Richard: *The Selfish Gene*
 - Deakin, Leona: *Gone*
-- Diamond, Jared: *Guns, Germs, and Steel: The Fates of Human Societies* 
+- Diamond, Jared: *Guns, Germs, and Steel: The Fates of Human Societies*
+- Diaz, Hernán: *In the Distance* 
 - Doughty, Caitlin: *Smoke Gets in Your Eyes*
 - Doughty, Caitlin: *Will My Cat Eat My Eyeballs? Big Questions from Tiny Mortals about Death*
 - Ende, Michael: *Die unendliche Geschichte*
+- Enriquez, Mariana: *Things We Lost in the Fire*
 - Ferrante, Elena: *My Brilliant Friend*
 - Flynn, Gillian: *Gone Girl*
 - Flynn, Gillian: *Sharp Objects*
