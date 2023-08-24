@@ -17,10 +17,12 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
 - Brown, Elaine: *A Taste of Power: A Black Woman's Story*
 - Dazai, Osamu: *No Longer Human* (Tom)
+- Diop, David: *At Night All Blood is Black* (Tom)
 - Dunnett, Dorothy: *Lymond* series 
 - Farrow, Ronan: *Catch and Kill*
-- Harpman, Jacqueline: *I Who Have Never Known Men*
 - Jemison, N.K.: *The Fifth Season*
+- Karunatilaka, Shehan: *The Seven Moons of Maali Almeida* (Tom)
+- Kawaguchi, Toshikazu: *Before the Coffee Gets Cold* (Tom)
 - Kawakami, Mieko: *Breasts and Eggs*
 - Kent, Hannah: *Devotion* (Tom)
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
@@ -36,12 +38,15 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Singer, Margaret & Lalich, Janja: *Cults in Our Midst*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
 - Spufford, Francis: *Red Plenty*
+- Suri, Tasha: *The Jasmine Throne* (Tom)
 - Sun, Jonny: *Goodbye, Again*
 - Taddeo, Lisa: *Three Women*
 - Talese, Gay: *Honor Thy Father* 
 - Talese, Gay: *Thy Neighbor's Wife* 
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
 - Woodhouse, P.G.: *Right Ho, Jeeves*
+- Zevin, Gabrielle: *Tomorrow, and Tomorrow and Tomorrow* (Tom)
+
 
 ---
 
