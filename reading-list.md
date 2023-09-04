@@ -72,6 +72,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Corey, James S.A.: *Leviathan Wakes*
 - Cowart, Leigh: *The Science and Culture of Pain on Purpose*
 - Crouch, Blake: *Recursion*
+- Crouch, Blake: *Upgrade*
 - Danielewski, Mark Z.: *House of Leaves*
 - Dawkins, Richard: *The Selfish Gene*
 - Deakin, Leona: *Gone*
