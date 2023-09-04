@@ -69,6 +69,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Chambers, Becky: *The Long Way to a Small, Angry Planet*
 - Christie, Agatha: *Murder on the Orient Express*
 - Cline, Ernest: *Ready Player One*
+- Cooke, Lucy: *Bitch*
 - Corey, James S.A.: *Leviathan Wakes*
 - Cowart, Leigh: *The Science and Culture of Pain on Purpose*
 - Crouch, Blake: *Recursion*
