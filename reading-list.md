@@ -117,6 +117,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - McDermid, Val: *The Mermaids Singing*
 - McQuiston, Casey: *Red, White & Royal Blue* 
 - Miéville, China: *The City & the City*
+- Miller, Madeline: *Circe*
 - Morgenstern, Erin: *The Night Circus*
 - Murakami, Haruki: *Absolutely on Music: Conversations with Seiji Ozawa* 
 - Murakami, Haruki: *A Wild Sheep's Chase* 
