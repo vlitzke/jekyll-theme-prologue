@@ -11,7 +11,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Ende, Michael: *Momo*
 - Márquez, Gabriel García: *One Hundred Years of Solitude*
 - Pynchon, Thomas: *Gravity's Rainbow*
-- Godfrey-Smith, Peter: *Other Minds*
 
 ### To-read list: 
 - Brett, Peter V: *The Painted Man (Demon Cycle Series)*
@@ -87,6 +86,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Flynn, Gillian: *Sharp Objects*
 - Gaiman, Niel: *American Gods*
 - Gaiman, Niel: *Norse Mythology*
+- Godfrey-Smith, Peter: *Other Minds*
 - Haddon, Mark: *The Curious Incident of the Dog in the Night-Time*
 - Haig, Matt: *The Midnight Library*
 - Harari, Yuval Noah: *Sapiens: A Brief History of Humankind*
@@ -107,6 +107,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Larson, Erik: *The Devil in the White City*
 - Larsson, Stieg: *The Girl with the Dragon Tattoo Trilogy*
 - Leckie Ann: *Ancillary Justice*
+- Lee, Min Jin: *Pachinko*
 - Liu, Cixin: *The Three-Body Problem*
 - Machado, Carmen Maria: *In the Dream House*
 - Manson, Mark: *Everything is F@cked: A Book About Hope*
