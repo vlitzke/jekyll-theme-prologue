@@ -46,7 +46,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Woodhouse, P.G.: *Right Ho, Jeeves*
 - Zevin, Gabrielle: *Tomorrow, and Tomorrow and Tomorrow* (Tom)
 
-
 ---
 
 ### Notable books from the past year or so:
@@ -122,9 +121,10 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Morgenstern, Erin: *The Night Circus*
 - Murakami, Haruki: *Absolutely on Music: Conversations with Seiji Ozawa* 
 - Murakami, Haruki: *A Wild Sheep's Chase* 
-- Murakami, Haruki: *1Q84* 
+- Murakami, Haruki: *Hard-Boiled Wonderland and the End of the World*
 - Murakami, Haruki: *Kafka on the Shore*
 - Murakami, Haruki: *What I Talk About When I Talk About Running*
+- Murakami, Haruki: *1Q84*
 - Neuvel, Sylvain: *Sleeping Giants*
 - Norton, Graham: *Holding*
 - Obama, Michelle: *Becoming*
@@ -160,4 +160,4 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Zauner, Michelle: *Crying in H Mart*
 - Zamyatin, Yevgeny: *We*
 
-If you made it to the bottom of this list, congratulations! If you have any suggestions, let me know :) 
+If you made it to the bottom of this list and have any suggestions, let me know :) 
