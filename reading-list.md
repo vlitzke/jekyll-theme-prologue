@@ -37,6 +37,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Singer, Margaret & Lalich, Janja: *Cults in Our Midst*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
 - Spufford, Francis: *Red Plenty*
+- Stephenson, Neal: *Snow Crash*
 - Suri, Tasha: *The Jasmine Throne* (Tom)
 - Sun, Jonny: *Goodbye, Again*
 - Taddeo, Lisa: *Three Women*
