@@ -31,6 +31,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Nabokov: *Lolita*
 - Nabokov: *Pnin*
 - Nicholls, David: *One Day*
+- Ogawa, Yōko: *The Housekeeper and the Professor*
 - Penny, Louise: *Still Life*
 - Rushdie, Salman: *The Golden House*
 - Safina, Carl: *Becoming Wild*
@@ -44,6 +45,8 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Talese, Gay: *Honor Thy Father* 
 - Talese, Gay: *Thy Neighbor's Wife* 
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
+- Whitehead, Colson: *The Nickel Boys*
+- Whitehead, Colson: *The Underground Railroad*
 - Woodhouse, P.G.: *Right Ho, Jeeves*
 - Zevin, Gabrielle: *Tomorrow, and Tomorrow and Tomorrow* (Tom)
 
@@ -104,6 +107,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Kahneman, Daniel: *Thinking, Fast and Slow*
 - Kaur, Rupi: *Milk and Honey*
 - Kaur, Rupi: *The Sun and Her Flowers*
+- Kawaguchi Toshikazu: *Before the Coffee Gets Cold*
 - Kay, Adam: *This is Going to Hurt*
 - Keyes, Daniel: *Flowers for Algernon*
 - Larson, Erik: *The Devil in the White City*
@@ -158,6 +162,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Weir, Andy: *The Martian*
 - Wilde, Oscar: *The Picture of Dorian Gray*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
+- Vuong, Ocean: *On Earth We're Briefly Gorgeous*
 - Zauner, Michelle: *Crying in H Mart*
 - Zamyatin, Yevgeny: *We*
 
