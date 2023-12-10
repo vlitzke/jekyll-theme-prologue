@@ -19,9 +19,8 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Diop, David: *At Night All Blood is Black* (Tom)
 - Dunnett, Dorothy: *Lymond* series 
 - Farrow, Ronan: *Catch and Kill*
-- Jemison, N.K.: *The Fifth Season*
+- Jemison, N.K.: *The Fifth Season* (Ada)
 - Karunatilaka, Shehan: *The Seven Moons of Maali Almeida* (Tom)
-- Kawaguchi, Toshikazu: *Before the Coffee Gets Cold* (Tom)
 - Kawakami, Mieko: *Breasts and Eggs*
 - Kent, Hannah: *Devotion* (Tom)
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
@@ -31,22 +30,22 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Nabokov: *Lolita*
 - Nabokov: *Pnin*
 - Nicholls, David: *One Day*
-- Ogawa, Yōko: *The Housekeeper and the Professor*
+- Ogawa, Yōko: *The Housekeeper and the Professor* (Doris)
 - Penny, Louise: *Still Life*
 - Rushdie, Salman: *The Golden House*
 - Safina, Carl: *Becoming Wild*
 - Singer, Margaret & Lalich, Janja: *Cults in Our Midst*
 - Spark, Muriel: *The Prime of Miss Jean Brodie*
 - Spufford, Francis: *Red Plenty*
-- Stephenson, Neal: *Snow Crash*
+- Stephenson, Neal: *Snow Crash* (Alan)
 - Suri, Tasha: *The Jasmine Throne* (Tom)
 - Sun, Jonny: *Goodbye, Again*
 - Taddeo, Lisa: *Three Women*
 - Talese, Gay: *Honor Thy Father* 
 - Talese, Gay: *Thy Neighbor's Wife* 
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
-- Whitehead, Colson: *The Nickel Boys*
-- Whitehead, Colson: *The Underground Railroad*
+- Whitehead, Colson: *The Nickel Boys* (Leeban)
+- Whitehead, Colson: *The Underground Railroad* (Leeban)
 - Woodhouse, P.G.: *Right Ho, Jeeves*
 - Zevin, Gabrielle: *Tomorrow, and Tomorrow and Tomorrow* (Tom)
 
@@ -95,7 +94,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Haddon, Mark: *The Curious Incident of the Dog in the Night-Time*
 - Haig, Matt: *The Midnight Library*
 - Harari, Yuval Noah: *Sapiens: A Brief History of Humankind*
-- Harpman, Jacqueline: *I Who Have Never Known Men* (ada)
+- Harpman, Jacqueline: *I Who Have Never Known Men* (Ada)
 - Hawthorne, Nathaniel: *The Scarlet Letter*
 - Hoffman, Alice: *Practical Magic*
 - Hornby, Nick: *A Long Way Down*
@@ -107,7 +106,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Kahneman, Daniel: *Thinking, Fast and Slow*
 - Kaur, Rupi: *Milk and Honey*
 - Kaur, Rupi: *The Sun and Her Flowers*
-- Kawaguchi Toshikazu: *Before the Coffee Gets Cold*
+- Kawaguchi Toshikazu: *Before the Coffee Gets Cold* (Tom)
 - Kay, Adam: *This is Going to Hurt*
 - Keyes, Daniel: *Flowers for Algernon*
 - Larson, Erik: *The Devil in the White City*
