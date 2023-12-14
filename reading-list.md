@@ -161,6 +161,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Weir, Andy: *The Martian*
 - Wilde, Oscar: *The Picture of Dorian Gray*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
+- Vonnegut, Kurt: *Cat's Cradle*
 - Vuong, Ocean: *On Earth We're Briefly Gorgeous*
 - Zauner, Michelle: *Crying in H Mart*
 - Zamyatin, Yevgeny: *We*
