@@ -44,7 +44,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Talese, Gay: *Honor Thy Father* 
 - Talese, Gay: *Thy Neighbor's Wife* 
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
-- Whitehead, Colson: *The Nickel Boys* (Leeban)
 - Whitehead, Colson: *The Underground Railroad* (Leeban)
 - Woodhouse, P.G.: *Right Ho, Jeeves*
 - Zevin, Gabrielle: *Tomorrow, and Tomorrow and Tomorrow* (Tom)
@@ -160,6 +159,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Towles, Amor: *A Gentleman in Moscow*
 - Turton, Stuart: *The Seven Deaths of Evelyn Hardcastle*
 - Weir, Andy: *The Martian*
+- Whitehead, Colson: *The Nickel Boys* (Leeban)
 - Wilde, Oscar: *The Picture of Dorian Gray*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
 - Vonnegut, Kurt: *Cat's Cradle*
