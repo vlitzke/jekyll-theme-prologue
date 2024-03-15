@@ -129,6 +129,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Murakami, Haruki: *What I Talk About When I Talk About Running*
 - Murakami, Haruki: *1Q84*
 - Murata, Sayaka: *Convenience Store Woman*
+- Murata, Sayaka: *Earthlings*
 - Neuvel, Sylvain: *Sleeping Giants*
 - Norton, Graham: *Holding*
 - Obama, Michelle: *Becoming*
