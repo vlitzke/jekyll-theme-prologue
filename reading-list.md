@@ -20,7 +20,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Dunnett, Dorothy: *Lymond* series 
 - Farrow, Ronan: *Catch and Kill*
 - Jemison, N.K.: *The Fifth Season* (Ada)
-- Karunatilaka, Shehan: *The Seven Moons of Maali Almeida* (Tom)
 - Kawakami, Mieko: *Breasts and Eggs*
 - Kent, Hannah: *Devotion* (Tom)
 - Kimmerer, Robin Wall: *Braiding Sweetgrass*
@@ -35,7 +34,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Rushdie, Salman: *The Golden House*
 - Safina, Carl: *Becoming Wild*
 - Singer, Margaret & Lalich, Janja: *Cults in Our Midst*
-- Spark, Muriel: *The Prime of Miss Jean Brodie*
 - Spufford, Francis: *Red Plenty*
 - Stephenson, Neal: *Snow Crash* (Alan)
 - Suri, Tasha: *The Jasmine Throne* (Tom)
@@ -103,6 +101,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Ishiguro, Kazuo: *Klara and the Sun*
 - Ishiguro, Kazuo: *Never Let Me Go*
 - Kahneman, Daniel: *Thinking, Fast and Slow*
+- Karunatilaka, Shehan: *The Seven Moons of Maali Almeida* (Tom)
 - Kaur, Rupi: *Milk and Honey*
 - Kaur, Rupi: *The Sun and Her Flowers*
 - Kawaguchi Toshikazu: *Before the Coffee Gets Cold* (Tom)
@@ -154,6 +153,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Saini, Angela: *Superior: The Return of Race Science*
 - Savage, Sam: *Firmin: Adventures of a Metropolitan Lowlife*
 - Schlink, Bernhard: *The Reader*
+- Spark, Muriel: *The Prime of Miss Jean Brodie*
 - Steel, Tom: *The Life & Death of St Kilda*
 - Strayed, Cheryl: *Wild*
 - Tan, Amy: *The Joy Luck Club*
