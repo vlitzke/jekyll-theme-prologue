@@ -29,7 +29,6 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Nabokov: *Lolita*
 - Nabokov: *Pnin*
 - Nicholls, David: *One Day*
-- Ogawa, Yōko: *The Housekeeper and the Professor* (Doris)
 - Penny, Louise: *Still Life*
 - Rushdie, Salman: *The Golden House*
 - Safina, Carl: *Becoming Wild*
@@ -42,9 +41,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Talese, Gay: *Honor Thy Father* 
 - Talese, Gay: *Thy Neighbor's Wife* 
 - Weiner, Jonathan: *The Beak of the Finch: A Story of Evolution in Our Time*
-- Whitehead, Colson: *The Underground Railroad* (Leeban)
 - Woodhouse, P.G.: *Right Ho, Jeeves*
-- Zevin, Gabrielle: *Tomorrow, and Tomorrow and Tomorrow* (Tom)
 
 ---
 
@@ -132,6 +129,7 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Neuvel, Sylvain: *Sleeping Giants*
 - Norton, Graham: *Holding*
 - Obama, Michelle: *Becoming*
+- Ogawa, Yōko: *The Housekeeper and the Professor* (Doris)
 - Orwell, George: *Down and Out in Paris and London*
 - Patchett, Ann: *Truth and Beauty* (courtesy of Emilie <3)
 - Patterson, James: *Juror No. 3*
@@ -161,11 +159,13 @@ I have tried keeping lists of finished books over the years on scraps of paper o
 - Turton, Stuart: *The Seven Deaths of Evelyn Hardcastle*
 - Weir, Andy: *The Martian*
 - Whitehead, Colson: *The Nickel Boys* (Leeban)
+- Whitehead, Colson: *The Underground Railroad* (Leeban)
 - Wilde, Oscar: *The Picture of Dorian Gray*
 - Wright, John: *River Cottage Handbook No. 1: Mushrooms*
 - Vonnegut, Kurt: *Cat's Cradle*
 - Vuong, Ocean: *On Earth We're Briefly Gorgeous*
 - Zauner, Michelle: *Crying in H Mart*
 - Zamyatin, Yevgeny: *We*
+- Zevin, Gabrielle: *Tomorrow, and Tomorrow and Tomorrow* (Tom)
 
 If you made it to the bottom of this list and have any suggestions, let me know :) 
